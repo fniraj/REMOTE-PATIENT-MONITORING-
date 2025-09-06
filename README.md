@@ -1,4 +1,3 @@
-REMOTE PATIENT MONITORING 
 Introduction
 
 Treatment Plan Virtually is a digital healthcare solution designed to help medical doctors and healthcare professionals organize treatment plans based on patient details and diagnosis symptoms through a secure online interface.
